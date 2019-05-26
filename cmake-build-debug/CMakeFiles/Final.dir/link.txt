@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Final.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Final.dir/objects.a @CMakeFiles\Final.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Final.dir/objects.a -Wl,--no-whole-archive  -o Final.exe -Wl,--out-implib,libFinal.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Final.dir\linklibs.rsp

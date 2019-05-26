@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/clems/Documents/GitHub/Mines_261/Final/HelperFunctions.cpp
+HelperFunctions.h
+C:/Users/clems/Documents/GitHub/Mines_261/Final/HelperFunctions.h
+vector
+-
+Word.h
+C:/Users/clems/Documents/GitHub/Mines_261/Final/Word.h
+iostream
+-
+string
+-
+
+C:/Users/clems/Documents/GitHub/Mines_261/Final/HelperFunctions.h
+fstream
+-
+
+C:/Users/clems/Documents/GitHub/Mines_261/Final/Word.h
+string
+-
+
